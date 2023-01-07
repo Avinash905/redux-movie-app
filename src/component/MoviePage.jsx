@@ -60,7 +60,7 @@ export default function MoviePage() {
                 {movieData.Plot}
               </p>
               <div className="button text-center">
-                <NavLink className="btn btn-success " to="/movies-app-redux">
+                <NavLink className="btn btn-success " to="/redux-movie-app">
                   Go Back
                 </NavLink>
               </div>
