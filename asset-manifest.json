@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/movies-app-redux/static/css/main.99afce28.css",
-    "main.js": "/movies-app-redux/static/js/main.ddbe87df.js",
-    "index.html": "/movies-app-redux/index.html",
-    "main.99afce28.css.map": "/movies-app-redux/static/css/main.99afce28.css.map",
-    "main.ddbe87df.js.map": "/movies-app-redux/static/js/main.ddbe87df.js.map"
+    "main.css": "/redux-movie-app/static/css/main.99afce28.css",
+    "main.js": "/redux-movie-app/static/js/main.12a9f52c.js",
+    "index.html": "/redux-movie-app/index.html",
+    "main.99afce28.css.map": "/redux-movie-app/static/css/main.99afce28.css.map",
+    "main.12a9f52c.js.map": "/redux-movie-app/static/js/main.12a9f52c.js.map"
   },
   "entrypoints": [
     "static/css/main.99afce28.css",
-    "static/js/main.ddbe87df.js"
+    "static/js/main.12a9f52c.js"
   ]
 }
