@@ -1,7 +1,7 @@
 {
   "name": "movies-app-redux",
   "version": "0.1.0",
-  "homepage": "https://Avinash905.github.io//movies-app-redux",
+  "homepage": "https://Avinash905.github.io/movies-app-redux",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
