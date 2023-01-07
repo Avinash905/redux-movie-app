@@ -7,8 +7,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/movies-app-redux" element={<Home />} />
-        <Route path="/movie-app-redux/movie/:id" element={<MoviePage />} />
+        <Route path="/redux-movie-app" element={<Home />} />
+        <Route path="/redux-movie-app/movie/:id" element={<MoviePage />} />
       </Routes>
     </BrowserRouter>
   );

@@ -31,7 +31,7 @@ export default function MovieSection() {
             return (
               <NavLink
                 key={movie.imdbID}
-                to={`/movie-app-redux/movie/${movie.imdbID}`}
+                to={`/redux-movie-app/movie/${movie.imdbID}`}
               >
                 <div className="card-own">
                   <div className="img-cont">
